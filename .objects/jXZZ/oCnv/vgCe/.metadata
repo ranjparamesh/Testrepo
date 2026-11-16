@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge: UiBank-Loan Home",
+  "Type": "Screen",
+  "Id": "vgCe75bErUiMHovIKu4aNQ",
+  "Reference": "i6XgUwJqzEWIdHF8kXfL0Q/vgCe75bErUiMHovIKu4aNQ",
+  "ParentRef": "i6XgUwJqzEWIdHF8kXfL0Q/oCnvTtTW40ylOWM-c3Py9Q",
+  "Created": "2026-11-05T11:19:01.5460571Z",
+  "Updated": "2026-11-05T11:19:01.5460571Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

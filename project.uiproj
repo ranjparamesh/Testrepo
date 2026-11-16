@@ -1,0 +1,6 @@
+{
+  "Name": "TestAutomationtemplste",
+  "ProjectType": "Tests",
+  "Description": "Test Automation Framework template. Every test case runs inside one execution template that loads Config (Settings, Constants and Assets JSON files), runs the SetUp and TearDown hooks with their own time limits, and records any failure with a screenshot in Test Manager.",
+  "MainFile": ""
+}

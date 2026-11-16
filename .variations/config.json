@@ -1,0 +1,12 @@
+{
+  "dataVariationFileInfo": [
+    {
+      "filePath": ".variations\\UIBank.json",
+      "dataVariationType": "Entity"
+    },
+    {
+      "filePath": ".variations\\XBrowserTemplateDataVariation_1.json",
+      "dataVariationType": "File"
+    }
+  ]
+}

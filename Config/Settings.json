@@ -1,0 +1,5 @@
+[
+  { "Name": "TestTimeout", "Value": "00:05:00" },
+  { "Name": "TearDownTimeout", "Value": "00:02:00" },
+  { "Name": "LoginUrl", "Value": "https://uibank.uipath.com/welcome" }
+]

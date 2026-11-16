@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Apply For A Loan →",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "bizLvrbPPECW7kkwjs2d0g",
+  "Reference": "i6XgUwJqzEWIdHF8kXfL0Q/bizLvrbPPECW7kkwjs2d0g",
+  "ParentRef": "i6XgUwJqzEWIdHF8kXfL0Q/J6Wv00gyEEa4iHHkEAvgyQ",
+  "Created": "2026-11-05T11:19:01.4101228Z",
+  "Updated": "2026-11-05T11:19:01.4101228Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Loan Screen",
+  "Type": "Screen",
+  "Id": "J6Wv00gyEEa4iHHkEAvgyQ",
+  "Reference": "i6XgUwJqzEWIdHF8kXfL0Q/J6Wv00gyEEa4iHHkEAvgyQ",
+  "ParentRef": "i6XgUwJqzEWIdHF8kXfL0Q/oCnvTtTW40ylOWM-c3Py9Q",
+  "Created": "2026-11-05T11:13:01.6902779Z",
+  "Updated": "2026-11-05T11:13:41.3204502Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
