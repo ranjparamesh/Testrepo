@@ -78,19 +78,19 @@
       <AssemblyReference>System.Linq.Expressions</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence sap2010:Annotation.AnnotationText="Given / When / Then test case, run inside the TestExecutionTemplate: Config is loaded and SetUp has run before Given; TearDown runs after Then. Read settings as Config(&quot;Name&quot;).&#xA;Screenshots: a test that throws is captured by the template. To keep evidence at a step, add a Verify Expression on True with Take screenshot on success; it appears in Test Manager inline with the run." DisplayName="Test case" sap:VirtualizedContainerService.HintSize="569,1339" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence sap2010:Annotation.AnnotationText="Given / When / Then test case, run inside the TestExecutionTemplate: Config is loaded and SetUp has run before Given; TearDown runs after Then. Read settings as Config(&quot;Name&quot;).&#xA;Screenshots: a test that throws is captured by the template. To keep evidence at a step, add a Verify Expression on True with Take screenshot on success; it appears in Test Manager inline with the run." DisplayName="Test case" sap:VirtualizedContainerService.HintSize="569,1343" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Login" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="452,1316" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" ScopeGuid="5903e8b4-0335-4335-b9cd-2647072fb166" Version="V2">
+    <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Login" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="452,1320" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" ScopeGuid="5903e8b4-0335-4335-b9cd-2647072fb166" Version="V2">
       <uix:NApplicationCard.Body>
         <ActivityAction x:TypeArguments="x:Object">
           <ActivityAction.Argument>
             <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
           </ActivityAction.Argument>
-          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="450,1122" sap2010:WorkflowViewState.IdRef="Sequence_2">
+          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="450,1126" sap2010:WorkflowViewState.IdRef="Sequence_2">
             <Sequence.Variables>
               <Variable x:TypeArguments="x:String" Name="Success" />
             </Sequence.Variables>
@@ -120,7 +120,7 @@
                 </uix:VerifyExecutionTypeIntoOptions>
               </uix:NTypeInto.VerifyOptions>
             </uix:NTypeInto>
-            <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" ClipboardMode="Never" DisplayName="Type Into 'Password'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,250" sap2010:WorkflowViewState.IdRef="NTypeInto_2" ScopeIdentifier="5903e8b4-0335-4335-b9cd-2647072fb166" Text="r1dh133F123!" Version="V5">
+            <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" ClipboardMode="Never" DisplayName="Type Into 'Password'" EmptyFieldMode="SingleLine" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,250" sap2010:WorkflowViewState.IdRef="NTypeInto_2" ScopeIdentifier="5903e8b4-0335-4335-b9cd-2647072fb166" Text="r1dh133F123" Version="V5">
               <uix:NTypeInto.Target>
                 <uix:TargetAnchorable BrowserURL="uibank.uipath.com/welcome" ContentHash="yZ4gELhyCkea7GNpVwZioQ" DesignTimeRectangle="347, 578, 165, 53" ElementType="InputBoxPassword" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='password' tag='INPUT' type='password' class='form-control uibank-input ng-untouched ng-pristine ng-valid' placeholder='Enter password' aaname='Password' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="3135e021-7f97-4b07-9cd1-1e11bd51b3c7" InformativeScreenshot="0be32edc86f2160abe2ba3fa08bfe81b.jpg" Reference="i6XgUwJqzEWIdHF8kXfL0Q/pSzskWkdoECS2EnbyzqYFw" ScopeSelectorArgument="&lt;html app='msedge.exe' title='UiBank-Welcome' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
                   <uix:TargetAnchorable.Anchors>
